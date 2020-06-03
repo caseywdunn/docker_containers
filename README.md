@@ -6,5 +6,5 @@ For more about docker, see my [cheat sheet](https://gist.github.com/caseywdunn/3
 
 To build any one of these images, run something like
 
-    docker build -t dunnlab:build-essential:latest https://github.com/caseywdunn/docker_containers.git#master:build-essential
+    docker build -t dunnlab/build-essential:latest https://github.com/caseywdunn/docker_containers.git#master:build-essential
 
