@@ -6,5 +6,6 @@ RUN apt-get update \
   ca-certificates \
   curl \
   git \
+  unzip \
   vim \
   wget
